@@ -11,12 +11,12 @@ function App() {
           Tâm iu ly ( ˶˘ ³˘(⋆❛ ہ ❛⋆)!♡
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="tiki"
+          href="https://tiki.vn/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Tiki
         </a>
       </header>
     </div>
