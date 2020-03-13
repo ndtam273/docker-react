@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Tâm iu ly ( ˶˘ ³˘(⋆❛ ہ ❛⋆)!♡
+          Tâm iu Ly ( ˶˘ ³˘(⋆❛ ہ ❛⋆)!♡
         </p>
         <a
           className="tiki"
